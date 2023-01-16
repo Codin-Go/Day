@@ -1,2 +1,13 @@
+Direction | Status
+- 80 : Useful Service 
+- 20 : Small Projects 
+
+Curriculum (Service)
+- Curriculum (Flutter)
+- Curriculum (React)
+- Curriculum (Backend)
+
 Date | Direction | State 
 220114 | Github Daily Push | Start 
+220115 | Github Tour
+220116 | Build up 
